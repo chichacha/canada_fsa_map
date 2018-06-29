@@ -1,2 +1,6 @@
 # canada_fsa_map
 🇨🇦 having fun with shapefile.  
+
+was trying to figure out how to use geom_sf() function in ggplot2...
+BUT for some reason, my machine won't draw any map... and can't figure out why...
+
